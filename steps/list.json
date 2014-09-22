@@ -7,7 +7,7 @@
             "x": 0,
             "y": -400,
             "z": 0,
-            "scale": 1,
+            "scale": 4,
             "rotate-x": -90,
             "rotate-y": 0,
             "rotate-z": 0
@@ -21,7 +21,63 @@
             "x": 0,
             "y": 0,
             "z": 400,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "web-jogos.html",
+        "id": "web-jogos",
+        "class": "step",
+        "data": {
+            "x": -1125,
+            "y": 0,
+            "z": 400,
             "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "web-interativas.html",
+        "id": "web-interativas",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 400,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "web-graficas.html",
+        "id": "web-graficas",
+        "class": "step",
+        "data": {
+            "x": 1125,
+            "y": 0,
+            "z": 400,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "plataforma-web-overview.html",
+        "id": "plataforma-web-overview",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 400,
+            "scale": 4,
             "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 0

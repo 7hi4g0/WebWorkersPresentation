@@ -88,3 +88,16 @@ body {
 #plataforma-web {
 	padding-bottom: 580px;
 }
+
+.impress-on-web-jogos #plataforma-web,
+.impress-on-web-interativas #plataforma-web,
+.impress-on-web-graficas #plataforma-web {
+	opacity: 0.3;
+}
+
+.impress-on-plataforma-web-overview #plataforma-web,
+.impress-on-plataforma-web-overview #web-jogos,
+.impress-on-plataforma-web-overview #web-interativas,
+.impress-on-plataforma-web-overview #web-graficas {
+	opacity: 1;
+}
